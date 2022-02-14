@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-085-computational-science-and-engineering-i-summer-2020/3498606f8ae009af473b6886b1477c4c_MIT18_085Summer20_PS7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 18.085 Summer 2020 Problem Set 7
+type: OCWFile
 uid: 3498606f-8ae0-09af-473b-6886b1477c4c
 ---

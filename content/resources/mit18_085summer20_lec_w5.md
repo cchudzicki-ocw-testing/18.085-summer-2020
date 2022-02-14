@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-085-computational-science-and-engineering-i-summer-2020/df1d12d87dbb3fa8f67586ced1476642_MIT18_085Summer20_lec_w5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 18.085 Summer 2020 Week 5 Lecture Notes
+type: OCWFile
 uid: df1d12d8-7dbb-3fa8-f675-86ced1476642
 ---
