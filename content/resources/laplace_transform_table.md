@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Exams
+ocw_type: OCWImage
 parent_title: Exams
 parent_type: CourseSection
 resourcetype: Image
