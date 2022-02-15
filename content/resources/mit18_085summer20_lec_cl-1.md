@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: MIT18_085Summer20_lec_CL.pptx
-type: OCWFile
 uid: 7e76dd15-d766-8505-c1d4-dab6403d9bf3
 ---

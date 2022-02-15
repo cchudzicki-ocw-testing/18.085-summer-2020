@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: MIT18_085Summer20_PS1_sol.m
-type: OCWFile
 uid: bd74fd2c-1989-6fc1-777f-3ca093fddb8c
 ---

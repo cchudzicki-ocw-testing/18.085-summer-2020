@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: Problem_3_Code.zip
-type: OCWFile
 uid: 570cfef8-86de-d909-683b-ae61de400f65
 ---

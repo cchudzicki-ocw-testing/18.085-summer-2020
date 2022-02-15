@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '18.085 Summer 2020 Lecture Notes: Dynamical Systems and Traffic Control'
-type: OCWFile
 uid: 9791db95-171b-564c-3f93-894d7e051d14
 ---

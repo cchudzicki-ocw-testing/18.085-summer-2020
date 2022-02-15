@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: 18.085 Summer 2020 Key Ideas in Linear Algebra
-type: OCWFile
 uid: da48aa61-cc7d-5926-9bfa-37a848b1f52e
 ---

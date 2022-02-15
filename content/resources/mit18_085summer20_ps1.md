@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 18.085 Summer 2020 Problem Set 1
-type: OCWFile
 uid: 3b75b8be-1a7c-7f0c-3b11-5e0d3300cf9a
 ---

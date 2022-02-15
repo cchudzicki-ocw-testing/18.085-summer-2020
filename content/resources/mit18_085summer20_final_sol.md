@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 18.085 Summer 2020 Final Exam Solutions
-type: OCWFile
 uid: 63423252-acf6-de00-03ab-e78d7cb086b5
 ---

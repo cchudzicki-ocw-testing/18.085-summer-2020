@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: dirichlet_code_demo.m
-type: OCWFile
 uid: c2d05a49-8031-587e-0914-c3fa11c059d5
 ---

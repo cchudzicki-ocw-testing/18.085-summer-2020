@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '18.085 Summer 2020 Lecture: Deep Learning/Double Descent'
-type: OCWFile
 uid: 22a453f2-f41f-9c34-ad27-4b7d7da9a0aa
 ---

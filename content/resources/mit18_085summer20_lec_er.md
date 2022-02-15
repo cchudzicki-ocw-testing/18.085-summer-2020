@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.085 Summer 2020 Lecture Notes: Finite Element Modeling of the Detachment
   of Soft Adhesives'
-type: OCWFile
 uid: 03385313-c1d6-7aae-2fd4-9bdd6d040b32
 ---

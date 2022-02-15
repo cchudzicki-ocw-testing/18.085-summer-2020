@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 18.085 Summer 2020 Problem Set 6 Solutions
-type: OCWFile
 uid: 1dddd936-6580-4a6b-eb12-3d93495f33bb
 ---

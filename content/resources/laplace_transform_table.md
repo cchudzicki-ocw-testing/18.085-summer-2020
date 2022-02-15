@@ -13,6 +13,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Image
 title: Laplace_Transform_Table.png
-type: OCWImage
 uid: 74ca0477-8cc0-7d87-cf62-1e01399c16f6
 ---

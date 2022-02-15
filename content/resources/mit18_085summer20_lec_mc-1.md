@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '18.085 Summer 2020 Lecture Notes: Signal Processing & FT Application'
-type: OCWFile
 uid: f99d7579-8cef-a8c7-96e6-b3899bd88e8f
 ---

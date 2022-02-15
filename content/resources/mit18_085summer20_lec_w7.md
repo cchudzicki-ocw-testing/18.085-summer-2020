@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 18.085 Summer 2020 Week 7 Lecture Notes
-type: OCWFile
 uid: 3710ae37-6bc3-8588-cef8-6d2762c3e3b2
 ---

@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '18.085 Summer 2020 Lecture Notes: Numerical Differentiation and Thunderstorm
   Research'
-type: OCWFile
 uid: d69f1c91-81b6-7460-6a8e-31bef6e4617c
 ---

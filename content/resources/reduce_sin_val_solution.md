@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: reduce_sin_val_solution.m
-type: OCWFile
 uid: 59ebf24c-5f1d-aac9-2e85-6e39cee52c53
 ---

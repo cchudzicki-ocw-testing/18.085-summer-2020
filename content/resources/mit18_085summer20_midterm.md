@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 18.085 Summer 2020 Midterm Exam
-type: OCWFile
 uid: 7a0b4200-5cf6-3711-c2c6-65269fa17660
 ---

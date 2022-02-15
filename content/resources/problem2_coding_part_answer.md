@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: Problem2_Coding_Part_Answer.zip
-type: OCWFile
 uid: 176ef7a5-07ae-8144-7985-6332bc432e14
 ---

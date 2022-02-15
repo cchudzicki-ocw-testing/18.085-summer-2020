@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: problem_2_solution.m
-type: OCWFile
 uid: 807cbab5-599a-681f-f690-ab5978b9e19a
 ---

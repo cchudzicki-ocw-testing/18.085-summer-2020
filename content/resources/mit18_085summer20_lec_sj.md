@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '18.085 Summer 2020 Lecture Notes: Solving Linear Equation'
-type: OCWFile
 uid: ca7a84c2-19f9-cc39-53d6-775c15c6ab5b
 ---
