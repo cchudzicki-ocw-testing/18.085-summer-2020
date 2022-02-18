@@ -79,7 +79,7 @@ Every semester
 Student Information
 -------------------
 
-![21 students took this course when it was taught in Summer 2020.]({{< resource_file 27b24309-d63c-1799-7984-ebbca4f802df >}})
+{{< resource 27b24309-d63c-1799-7984-ebbca4f802df >}}
 
 ### Enrollment
 
