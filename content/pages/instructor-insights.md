@@ -1,14 +1,13 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e950e349-b628-cf74-a2de-a8ce7e4595e3
 ---
-
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Dr. Chengzhao “Richard” Zhang describes various aspects of how he taught the summer 2020 iteration of _18.085 Computational Science and Engineering I_.
 
@@ -60,13 +59,12 @@ It was extremely refreshing for students to see how the mathematics they learned
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   Any of MIT’s Calculus II courses: [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010), [_18.022 Calculus of Several Variables_](/courses/18-022-calculus-of-several-variables-fall-2010), or an equivalent course
-*   Either [_18.03 Differential Equations_](/courses/18-03-differential-equations-spring-2010) or _[18.034 Honors Differential Equations](/courses/18-034-honors-differential-equations-spring-2009)_
+- Any of MIT’s Calculus II courses: [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010), [_18.022 Calculus of Several Variables_](/courses/18-022-calculus-of-several-variables-fall-2010), or an equivalent course
+- Either [_18.03 Differential Equations_](/courses/18-03-differential-equations-spring-2010) or [_18.034 Honors Differential Equations_](/courses/18-034-honors-differential-equations-spring-2009)
 
 ### Requirements Satisfied
 
@@ -76,21 +74,17 @@ Curriculum Information
 
 Every semester
 
-Student Information
--------------------
-
-{{< resource 27b24309-d63c-1799-7984-ebbca4f802df >}}
+## Student Information
 
 ### Enrollment
 
-21 students took this course.
+21 students
 
 ### Typical Student Background
 
 As noted above, the students enrolled in this iteration of 18.085 were active duty Marine and Coast Guard officers studying to become naval engineers.
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -98,18 +92,17 @@ Each student’s overall grade for the course is based on the higher of the grad
 
 ### Scheme 1
 
-*   50% Homework; two lowest scores discarded
-*   25% Midterm exam
-*   25% Final exam
+- 50% Homework; two lowest scores discarded
+- 25% Midterm exam
+- 25% Final exam
 
 ### Scheme 2
 
-*   70% Homework; lowest score dropped
-*   15% Midterm exam
-*   15% Final exam
+- 70% Homework; lowest score dropped
+- 15% Midterm exam
+- 15% Final exam
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
