@@ -460,7 +460,7 @@ Guest Lectures:
 Special Topic: Deep Learning/Double Descent by Prof. Gilbert Strang
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 22a453f2-f41f-9c34-ad27-4b7d7da9a0aa "Deep Learning/Double Descent (PDF)" %}} (Used with permission.)
+{{% resource_link 22a453f2-f41f-9c34-ad27-4b7d7da9a0aa "Deep Learning/Double Descent (PDF)" %}} (Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
