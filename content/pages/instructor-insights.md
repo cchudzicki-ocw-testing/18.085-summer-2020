@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Dr. Chengzhao \u201CRichard\u201D Zhang describes various\
+  \ aspects of how he taught the summer 2020 iteration of 18.085 Computational Science\
+  \ and Engineering I."
 draft: false
 layout: instructor_insights
 learning_resource_types: []
