@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section includes lecture notes from the instructor and guest lecturers. '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
